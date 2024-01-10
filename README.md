@@ -39,6 +39,7 @@ here are some of my active maintained git projects:
 
 | Project Name   |      Link      |  Maintained |
 |----------|-------------|------|
-| py_itu_change |  [![Static Badge](https://img.shields.io/badge/GitHub-py_itu_change-green?logo=github)](https://github.com/jcivitel/py_itu_change) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/) |
-| cs2 |    [![Static Badge](https://img.shields.io/badge/GitHub-cs2-green?logo=github)](https://github.com/jcivitel/cs2)   |   [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/) |
-| garrysmod | [![Static Badge](https://img.shields.io/badge/GitHub-garrysmod-green?logo=github)](https://github.com/jcivitel/garrysmod) |    [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/) |
+| py_itu_change |  [![Static Badge](https://img.shields.io/badge/GitHub-py_itu_change-green?logo=github)](https://github.com/jcivitel/py_itu_change) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/py_itu_change) |
+| cs2 |    [![Static Badge](https://img.shields.io/badge/GitHub-cs2-green?logo=github)](https://github.com/jcivitel/cs2)   |   [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/cs2) |
+| garrysmod | [![Static Badge](https://img.shields.io/badge/GitHub-garrysmod-green?logo=github)](https://github.com/jcivitel/garrysmod) |    [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/garrysmod) |
+| whitelable-wiki | [![Static Badge](https://img.shields.io/badge/GitHub-whitelable_wiki-green?logo=github)](https://github.com/jcivitel/whitelable-wiki) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/whitelable-wiki) |
