@@ -43,3 +43,4 @@ here are some of my active maintained git projects:
 | cs2 |    [![Static Badge](https://img.shields.io/badge/GitHub-cs2-green?logo=github)](https://github.com/jcivitel/cs2)   |   [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/cs2) |
 | garrysmod | [![Static Badge](https://img.shields.io/badge/GitHub-garrysmod-green?logo=github)](https://github.com/jcivitel/garrysmod) |    [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/garrysmod) |
 | whitelable-wiki | [![Static Badge](https://img.shields.io/badge/GitHub-whitelable_wiki-green?logo=github)](https://github.com/jcivitel/whitelable-wiki) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/whitelable-wiki) |
+| palworld | [![Static Badge](https://img.shields.io/badge/GitHub-palworld-green?logo=github)](https://github.com/jcivitel/palworld) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/palworld) |
