@@ -27,8 +27,6 @@ Hi 👋 My name is Jan Civitelli Benso
 <!-- ### Badges -->
 
 ## My GitHub Stats
-
-<a href="http://www.github.com/jcivitel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcivitel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/jcivitel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcivitel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
@@ -39,11 +37,11 @@ here are some of my active maintained git projects:
 
 | Project Name   |      Link      |  Maintained | Last Commit |
 |----------|-------------|------|------|
-| py_itu_change |  [![Static Badge](https://img.shields.io/badge/GitHub-py_itu_change-green?logo=github)](https://github.com/jcivitel/py_itu_change) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/py_itu_change) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/py_itu_change)](https://github.com/jcivitel/py_itu_change) |
-| whitelabel-wiki | [![Static Badge](https://img.shields.io/badge/GitHub-whitelabel_wiki-green?logo=github)](https://github.com/jcivitel/whitelabel-wiki) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/whitelabel-wiki) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/whitelabel-wiki)](https://github.com/jcivitel/whitelabel-wiki) |
-| django_connect_store | [![Static Badge](https://img.shields.io/badge/GitHub-django_connect_store-green?logo=github)](https://github.com/jcivitel/django_connect_store) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/django_connect_store) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/django_connect_store)](https://github.com/jcivitel/django_connect_store) |
-| django-service-stack | [![Static Badge](https://img.shields.io/badge/GitHub-django_service_stack-green?logo=github)](https://github.com/jcivitel/django-service-stack) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/django-service-stack) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/django-service-stack)](https://github.com/jcivitel/django-service-stack) |
-| django_insumate | [![Static Badge](https://img.shields.io/badge/GitHub-django_insumate-green?logo=github)](https://github.com/jcivitel/django_insumate) | [![](https://img.shields.io/maintenance/yes/2024)](https://github.com/jcivitel/django_insumate) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/django_insumate)](https://github.com/jcivitel/django_insumate) |
+| py_itu_change |  [![Static Badge](https://img.shields.io/badge/GitHub-py_itu_change-green?logo=github)](https://github.com/jcivitel/py_itu_change) | [![](https://img.shields.io/maintenance/yes/2025)](https://github.com/jcivitel/py_itu_change) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/py_itu_change)](https://github.com/jcivitel/py_itu_change) |
+| whitelabel-wiki | [![Static Badge](https://img.shields.io/badge/GitHub-whitelabel_wiki-green?logo=github)](https://github.com/jcivitel/whitelabel-wiki) | [![](https://img.shields.io/maintenance/yes/2025)](https://github.com/jcivitel/whitelabel-wiki) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/whitelabel-wiki)](https://github.com/jcivitel/whitelabel-wiki) |
+| django_connect_store | [![Static Badge](https://img.shields.io/badge/GitHub-django_connect_store-green?logo=github)](https://github.com/jcivitel/django_connect_store) | [![](https://img.shields.io/maintenance/yes/2025)](https://github.com/jcivitel/django_connect_store) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/django_connect_store)](https://github.com/jcivitel/django_connect_store) |
+| django-service-stack | [![Static Badge](https://img.shields.io/badge/GitHub-django_service_stack-green?logo=github)](https://github.com/jcivitel/django-service-stack) | [![](https://img.shields.io/maintenance/yes/2025)](https://github.com/jcivitel/django-service-stack) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/django-service-stack)](https://github.com/jcivitel/django-service-stack) |
+| django_insumate | [![Static Badge](https://img.shields.io/badge/GitHub-django_insumate-green?logo=github)](https://github.com/jcivitel/django_insumate) | [![](https://img.shields.io/maintenance/yes/2025)](https://github.com/jcivitel/django_insumate) | [![GitHub last commit](https://img.shields.io/github/last-commit/jcivitel/django_insumate)](https://github.com/jcivitel/django_insumate) |
 
 ## My game projects
 | Project Name   |      Link      |  Maintained | Last Commit |
